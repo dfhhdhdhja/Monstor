@@ -1,4 +1,4 @@
-if game.PlaceId == 13143692917 or 13143681444 then
+
 
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
@@ -134,5 +134,4 @@ local WalkSpeed = misc:CreateSlider({
    end,
 })
 
---placeid
-end
+
